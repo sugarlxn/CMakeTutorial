@@ -1,3 +1,5 @@
 build/
 .vscode/
 .gitignore
+cmake-3.25.1-tutorial-source/build/
+cmake-3.30.0-rc3-tutorial-source/build/
