@@ -1,3 +1,18 @@
 # CMakeTutorial
-这个是CMake官网Tutorial，链接为：https://cmake.org/cmake/help/latest/guide/tutorial/index.html
-仅仅作为学习使用
+
+**[中文](./README.md) / [English](./README.md)**
+
+CMakeTutorial reference to https://cmake.org/cmake/help/latest/guide/tutorial/index.html
+
+## 如何使用
+
+```
+```
+
+## 贡献
+
+PRs accepted.
+
+## 许可证
+
+MIT © Richard McRichface
